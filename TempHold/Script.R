@@ -9,6 +9,7 @@ require(sqldf)
 #setwd(DataPath)
 #dat = lapply(Datatbl,read.csv, header = TRUE)
 #setwd(Cwd)
+#conflict
 
 
 #Integers
