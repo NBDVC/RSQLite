@@ -9,13 +9,9 @@ require(sqldf)
 #setwd(DataPath)
 #dat = lapply(Datatbl,read.csv, header = TRUE)
 #setwd(Cwd)
-<<<<<<< HEAD
+
 # Small Change to compare on git.
-=======
-
 #conflict
-
->>>>>>> 756526c2e6371d2ae77d315009bddfaf4004c63f
 
 #Integers
 Nmbs<-sample.int(1000, 1000000, replace = TRUE)
